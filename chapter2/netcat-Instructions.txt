@@ -1,0 +1,2 @@
+netcat win linux 兼容版 需要库 chardet 用来判断字符类型
+linux 版本不兼容 win 
